@@ -45,7 +45,7 @@ function cargarJSON(){
 
 
 function leerJSON() {
-            $.getJSON("json/carta.json", function(datos) {
+            $.getJSON("json/data.json", function(datos) {
                 console.log(datos);
             });
         }
