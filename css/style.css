@@ -1,0 +1,21 @@
+
+
+section {
+
+	background-color: white;
+}
+
+footer {
+ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+body {
+
+	background-color: red;
+}
